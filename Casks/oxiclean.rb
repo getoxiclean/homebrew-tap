@@ -1,6 +1,6 @@
 cask "oxiclean" do
   version "0.2.0"
-  sha256 "bd84fd6011cdff99c3d1ad51e7866a07edc57f6247b72389c574be258fbd9ff5"
+  sha256 "cbef04d0457ab9e90295d2ce4403d70a34867dcb955a1e979ebbd6f96c040acd"
 
   url "https://github.com/getoxiclean/homebrew-tap/releases/download/v0.2.0/OxiCleanApp.dmg"
   name "OxiClean"
