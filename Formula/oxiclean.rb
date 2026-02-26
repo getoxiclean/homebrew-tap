@@ -2,7 +2,7 @@ class Oxiclean < Formula
   desc "macOS storage cleaner — find and remove hidden bloat"
   homepage "https://github.com/getoxiclean/oxiclean"
   url "https://github.com/getoxiclean/homebrew-tap/releases/download/v0.2.0/oxiclean-universal-apple-darwin.tar.gz"
-  sha256 "a6f5f8b47b72cce78d1637503b15c46c2b512107fb44debe179494dbf54edef7"
+  sha256 "c5e8928e926a6c7dfec8f3ec4cf8eaf61362ebee2149559a2487def223a59cea"
   version "0.2.0"
   license "MIT"
 
